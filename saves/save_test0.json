@@ -1,0 +1,12 @@
+{
+  "coins": 564,
+  "owned": [
+    "Starter",
+    "Sprinter"
+  ],
+  "upgrades": {},
+  "track_progress": 2,
+  "best_times": {
+    "0": 38.197999999999105
+  }
+}
