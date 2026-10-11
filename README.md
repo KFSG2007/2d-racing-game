@@ -4,7 +4,7 @@ A 2D top-down racing game I built in Python using Pygame, as my Computer Science
 
 ## What's in it
 
-- 6 tracks I designed myself — Oval Dunes, Figure-8 Rainway, Hairpin Glacier, Sprint Circuit, Maze Harbor, and Mixed Mayhem
+- 6 tracks I designed myself: Oval Dunes, Figure-8 Rainway, Hairpin Glacier, Sprint Circuit, Maze Harbor, and Mixed Mayhem
 - 5 cars you can buy and upgrade with coins earned in races
 - Weather that actually affects the driving — rain makes you slide, fog kills your visibility, sandstorms slow you down
 - Moving, rotating, and pulsing obstacles you can smash at high speed
